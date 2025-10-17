@@ -1,6 +1,4 @@
 {
-  // Optional: Used by the mod checker to enforce a client version
-  // or just as an information point. Set to null if not needed.
   "minimum_mod_version": "1.0.0",
   
   "mods": [
@@ -8,12 +6,6 @@
       "file": "antoswanderingtraders-1.0.0.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/antoswanderingtraders-1.0.0.jar",
       "sha1": "c0ebef2ae69e6dc623c8fc0770ad5d203eb0c8a8"
-    },
-    // Add other mod entries here if needed, following the same structure
-    // {
-    //   "file": "another_mod.jar",
-    //   "url": "https://github.com/...",
-    //   "sha1": "..."
-    // }
+    }
   ]
 }

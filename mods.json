@@ -2,10 +2,6 @@
   "minimum_mod_version": "1.0.0",
   
   "mods": [
-    {
-      "file": "antoswanderingtraders-1.0.0.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/antoswanderingtraders-1.0.0.jar",
-      "sha1": "c0ebef2ae69e6dc623c8fc0770ad5d203eb0c8a8"
-    }
+    
   ]
 }

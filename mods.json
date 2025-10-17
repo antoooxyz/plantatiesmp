@@ -1,5 +1,5 @@
 {
-  "minimum_mod_version": "1.0.0",
+  "_comment": "ATTENTION: The 'url' field contains placeholder links (https://example.com/mods/...). You MUST replace these with the actual direct download URLs for the mod checker to work correctly.",
   "mods": [
     {
       "file": "cardinal-components-api-7.2.0.jar",
@@ -25,6 +25,11 @@
       "file": "fabric-api-0.135.0+1.21.10.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/fabric-api-0.135.0+1.21.10.jar",
       "sha1": "68a4449ba6f5c7c06a97eac128a228694f736edb"
+    },
+    {
+      "file": "followersteleporttoo-1.21.10-2.7.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/followersteleporttoo-1.21.10-2.7.jar",
+      "sha1": "74cf5454ee321b3192cd69795d23d2a39c968f4d"
     },
     {
       "file": "ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",

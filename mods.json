@@ -22,11 +22,6 @@
       "sha1": "85b36e30add1ffa03124e00958031a57a9763e02"
     },
     {
-      "file": "Crops-Love-Rain-Mod-Fabric-1.21.10.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/Crops-Love-Rain-Mod-Fabric-1.21.10.jar",
-      "sha1": "6b8aa930c4769d56c8a18b50a825fbeaaab1ffe3"
-    },
-    {
       "file": "fabric-api-0.135.0+1.21.10.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/fabric-api-0.135.0+1.21.10.jar",
       "sha1": "68a4449ba6f5c7c06a97eac128a228694f736edb"
@@ -35,16 +30,6 @@
       "file": "ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
       "sha1": "8e28ea860effcf37b81a99b352d0d2daf58c31af"
-    },
-    {
-      "file": "fuji-fabric-12.67.0-e820ca1676-mc1.21.10.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/fuji-fabric-12.67.0-e820ca1676-mc1.21.10.jar",
-      "sha1": "cd776154f71bf2b9badb63db9320a49de0803184"
-    },
-    {
-      "file": "morezombievillagers-1.21.10-3.6.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/morezombievillagers-1.21.10-3.6.jar",
-      "sha1": "2b91ba7c5d3fd5e54cabe5f2ebafce15c41084fb"
     },
     {
       "file": "Portfolio-Mod-Fabric-1.21.10.jar",
@@ -65,11 +50,6 @@
       "file": "resourcelibrary-fabric-1.21.10-2.9.2.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resourcelibrary-fabric-1.21.10-2.9.2.jar",
       "sha1": "57ac8edd11857add1cd1fce9b767a2dc5e07baed"
-    },
-    {
-      "file": "villagernames-1.21.10-8.3.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/villagernames-1.21.10-8.3.jar",
-      "sha1": "fecad5e18415580b00d7b9f7ce753a06ad46deba"
     }
   ]
 }

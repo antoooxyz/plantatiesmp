@@ -50,6 +50,16 @@
       "file": "resourcelibrary-fabric-1.21.10-2.9.2.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resourcelibrary-fabric-1.21.10-2.9.2.jar",
       "sha1": "57ac8edd11857add1cd1fce9b767a2dc5e07baed"
+    },
+    {
+      "file": "modmenu-16.0.0-rc.1.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/modmenu-16.0.0-rc.1.jar",
+      "sha1": "C927187D11CB6DB2D3DAAD2A24899F1A70A1618F"
+    },
+    {
+      "file": "held-item-info-1.8.0.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/held-item-info-1.8.0.jar",
+      "sha1": "2E08093F29FF1A20B7A618EAC23A96C3881F2D53"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "_comment": "ATTENTION: The 'url' field contains placeholder links (https://example.com/mods/...). You MUST replace these with the actual direct download URLs for the mod checker to work correctly.",
   "mods": [
     {
-      "file": "cardinal-components-api-7.2.0.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/cardinal-components-api-7.2.0.jar",
-      "sha1": "094b43bd5faa00c1872659eee0dbc8002607496c"
+      "file": "cardinal-components-api-7.3.1.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/cardinal-components-api-7.3.1.jar",
+      "sha1": "4CE70BF88E3BC4A0B1A072019D0964122F3180A3"
     },
     {
       "file": "followersteleporttoo-1.21.10-2.7.jar",
@@ -22,34 +22,34 @@
       "sha1": "85b36e30add1ffa03124e00958031a57a9763e02"
     },
     {
-      "file": "fabric-api-0.135.0+1.21.10.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/fabric-api-0.135.0+1.21.10.jar",
-      "sha1": "68a4449ba6f5c7c06a97eac128a228694f736edb"
+      "file": "fabric-api-0.141.3+1.21.11.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/fabric-api-0.141.3+1.21.11.jar",
+      "sha1": "50DE67EB221F0B38216DA8668B09CA311327040E"
     },
     {
-      "file": "ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
-      "sha1": "8e28ea860effcf37b81a99b352d0d2daf58c31af"
+      "file": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "sha1": "61AA1B5FAFD75AFC44552D0213CAC39BC938BC2D"
     },
     {
-      "file": "Portfolio-Mod-Fabric-1.21.10.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/Portfolio-Mod-Fabric-1.21.10.jar",
-      "sha1": "eb975444875573c14a537fae58b5a93965cfccdc"
+      "file": "portfolio-1.21.x-1.5.5-fabric.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/portfolio-1.21.x-1.5.5-fabric.jar",
+      "sha1": "1A97CB71841491C2D9EBB90601D9018F13CB43CE"
     },
     {
-      "file": "resource_backpacks-fabric-1.21.10-1.3.0.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resource_backpacks-fabric-1.21.10-1.3.0.jar",
-      "sha1": "88750979184b71cbe90afeaed1f740440961cb3d"
+      "file": "resource_backpacks-fabric-1.21.11-1.4.0.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resource_backpacks-fabric-1.21.11-1.4.0.jar",
+      "sha1": "8D38031198E55DF044626F0A79081E234FD5CBF8"
     },
     {
-      "file": "resourceconfigapi-fabric-1.21.10-3.8.1.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resourceconfigapi-fabric-1.21.10-3.8.1.jar",
-      "sha1": "86dfeb65b1c3275f798c0b4251980b92a3afc9e2"
+      "file": "resourceconfigapi-fabric-1.21.11-3.9.2.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resourceconfigapi-fabric-1.21.11-3.9.2.jar",
+      "sha1": "23645D2F67FC7E1E3D4A018472C410C10EEC7B8C"
     },
     {
-      "file": "resourcelibrary-fabric-1.21.10-2.9.2.jar",
-      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resourcelibrary-fabric-1.21.10-2.9.2.jar",
-      "sha1": "57ac8edd11857add1cd1fce9b767a2dc5e07baed"
+      "file": "resourcelibrary-fabric-1.21.11-2.10.0.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/resourcelibrary-fabric-1.21.11-2.10.0.jar",
+      "sha1": "5B49C5DCD1A98585FCE9EFD4655F4B40B3EFE637"
     },
     {
       "file": "modmenu-16.0.0-rc.1.jar",

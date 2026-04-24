@@ -60,6 +60,16 @@
       "file": "held-item-info-1.8.0.jar",
       "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/held-item-info-1.8.0.jar",
       "sha1": "2E08093F29FF1A20B7A618EAC23A96C3881F2D53"
+    },
+     {
+      "file": "sixsevenprophecy.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/sixsevenprophecy.jar",
+      "sha1": "98B0877F9FA66E23A67437E2374A464479778B92"
+    },
+    {
+      "file": "geckolib-fabric-1.21.11-5.4.jar",
+      "url": "https://github.com/antoooxyz/plantatiesmp/raw/main/geckolib-fabric-1.21.11-5.4.jar",
+      "sha1": "E92B9C0B5B076AC9D4DEC4E1B0372E2F53ADCF91"
     }
   ]
 }

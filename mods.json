@@ -1,5 +1,4 @@
 {
-  "_comment": "ATTENTION: The 'url' field contains placeholder links (https://example.com/mods/...). You MUST replace these with the actual direct download URLs for the mod checker to work correctly.",
   "mods": [
     {
       "file": "cardinal-components-api-7.3.1.jar",
